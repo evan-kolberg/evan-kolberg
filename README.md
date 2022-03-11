@@ -1,6 +1,6 @@
 # Hi, I'm [Evan](https://github.com/me-like-code)!
 
-<a href="https://github.com/me-like-code"><img align="right" width="300" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APyCharm_Icon.svg&psig=AOvVaw1GDcLfQ-RLR2ykLeLHiH8J&ust=1647128852948000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDn-KSfv_YCFQAAAAAdAAAAABAJ"></a>
+<a href="https://github.com/me-like-code"><img align="right" width="300" height="300" src="https://imgur.com/a/ieEra88"></a>
 
 
 ## Some of my best work:
