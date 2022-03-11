@@ -17,12 +17,12 @@
   </a>
   <br><br>
     <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/suriyaa?style=flat-square&color=blue&logo=github">
+    <img src="https://badges.pufler.dev/years/me-like-code?style=flat-square&color=blue&logo=github">
   </a>
   <a href="https://github.com/me-like-code?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/suriyaa?style=flat-square&color=blue&logo=github">
+    <img src="https://badges.pufler.dev/repos/me-like-code?style=flat-square&color=blue&logo=github">
   </a>
   <a href="https://gist.github.com/me-like-code">
-    <img src="https://badges.pufler.dev/gists/suriyaa?style=flat-square&color=blue&logo=github">
+    <img src="https://badges.pufler.dev/gists/me-like-code?style=flat-square&color=blue&logo=github">
   </a>
 </p>
