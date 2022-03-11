@@ -1,7 +1,6 @@
 # Hi, I'm [Evan](https://github.com/me-like-code)!
 
-<a href="https://github.com/me-like-code"><img align="right" width="300" height="300" src="![MatrixCodeGIF](https://user-images.githubusercontent.com/70989484/157992347-eebdd957-b40d-4fd2-9f4a-d25037fca2e7.gif)
-"></a>
+<a href="https://github.com/me-like-code"><img align="right" width="300" height="300" src="![PyCharm_Icon svg](https://user-images.githubusercontent.com/70989484/157992602-814e0297-e934-40ed-99d8-1d02df5263d3.png)"></a>
 
 
 ## Some of my best work:
