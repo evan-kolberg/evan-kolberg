@@ -19,10 +19,10 @@
     <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/suriyaa?style=flat-square&color=blue&logo=github">
   </a>
-  <a href="https://github.com/suriyaa?tab=repositories">
+  <a href="https://github.com/me-like-code?tab=repositories">
     <img src="https://badges.pufler.dev/repos/suriyaa?style=flat-square&color=blue&logo=github">
   </a>
-  <a href="https://gist.github.com/suriyaa">
+  <a href="https://gist.github.com/me-like-code">
     <img src="https://badges.pufler.dev/gists/suriyaa?style=flat-square&color=blue&logo=github">
   </a>
 </p>
