@@ -1,6 +1,7 @@
 # Hi, I'm [Evan](https://github.com/me-like-code)!
 
-<a href="https://github.com/me-like-code"><img align="right" width="300" height="300" src="https://imgur.com/a/ieEra88"></a>
+<a href="https://github.com/me-like-code"><img align="right" width="300" height="300" src="![MatrixCodeGIF](https://user-images.githubusercontent.com/70989484/157992347-eebdd957-b40d-4fd2-9f4a-d25037fca2e7.gif)
+"></a>
 
 
 ## Some of my best work:
