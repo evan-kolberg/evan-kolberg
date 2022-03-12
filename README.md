@@ -1,7 +1,7 @@
 # Hi, I'm [Evan](https://github.com/me-like-code)!
 
 <a href="https://github.com/me-like-code">
-<img align="right" width="300" height="300" src="![PyCharm_Icon svg](https://github.com/me-like-code/me-like-code/blob/main/PyCharm_Icon.svg.png?raw=true)"></a>
+<img align="right" width="300" height="300" src="https://github.com/me-like-code/me-like-code/blob/main/PyCharm_Icon.svg.png?raw=true"></a>
 
 
 ## Some of my best work:
