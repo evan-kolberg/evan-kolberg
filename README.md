@@ -14,7 +14,7 @@
 ----
 
 <p align="center">
-  <a href="https://github.com/evan-kolberg
+  <a href="https://github.com/evan-kolberg">
     <img src="https://github-readme-stats.vercel.app/api?username=evan-kolberg&hide=commits&count_private=true&show_icons=true" alt="Evan's GitHub Stats">
   </a>
   <br><br>
