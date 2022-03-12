@@ -6,7 +6,7 @@
 
 ## Some of my best work:
 - [Infinite Campus Web Scraper](https://github.com/me-like-code/infinite-campus-web-scraper)🏫
-- [Tik Tok Views Bot (no longer working](https://github.com/me-like-code/Tik-Tok-Views-Bot📱
+- [Tik Tok Views Bot (no longer working)](https://github.com/me-like-code/Tik-Tok-Views-Bot)📱
 - [KidOYO Speedcode Bot](https://github.com/me-like-code/KidOYO-Speed-Code-Bot)🤖
 - [Crypto to Email](https://github.com/me-like-code/crypto-to-email)🪙
 
