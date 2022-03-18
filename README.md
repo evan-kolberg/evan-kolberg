@@ -3,7 +3,7 @@
 
 <a href="https://github.com/evan-kolberg">
 <img align="right" width="300" height="300" src="https://github.com/evan-kolberg/evan-kolberg/blob/main/PyCharm_Icon.svg.png?raw=true"></a>
-<a href="https://stackoverflow.com/users/13793957/just-a-fellow-coder"><img src="https://stackoverflow.com/users/flair/13793957.png?theme=dark" width="208" height="58" alt="profile for just a fellow coder at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for just a fellow coder at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/13793957/just-a-fellow-coder"><img src="https://stackoverflow.com/users/flair/13793957.png?theme=dark" align="right" width="208" height="58" alt="profile for just a fellow coder at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for just a fellow coder at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## Some of my best work:
 - [Infinite Campus Web Scraper](https://github.com/evan-kolberg/infinite-campus-web-scraper)🏫
