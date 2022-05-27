@@ -9,6 +9,7 @@
 ## Some of my best work:
 - [GOAT.com Webscraper](https://github.com/evan-kolberg/GOAT.com-Web-Scraper) 🐐
 - [Infinite Campus Web Scraper](https://github.com/evan-kolberg/infinite-campus-web-scraper) 🏫
+- [Arduino Mouse for your PC](https://github.com/evan-kolberg/arduino-HID-mouse) 🐁
 - [KidOYO Speedcode Bot](https://github.com/evan-kolberg/KidOYO-Speed-Code-Bot) 🤖
 
 
