@@ -7,9 +7,9 @@
 <a href="https://stackoverflow.com/users/13793957/just-a-fellow-coder"><img src="https://stackoverflow.com/users/flair/13793957.png?theme=dark" align="right" width="208" height="58" alt="profile for just a fellow coder at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for just a fellow coder at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## Some of my best work:
+- [ULTIMATE WALMART GAMING MOUSE](https://github.com/evan-kolberg/ULTIMATE-WALMART-GAMING-MOUSE) 🐁
 - [GOAT.com Webscraper](https://github.com/evan-kolberg/GOAT.com-Web-Scraper) 🐐
 - [Infinite Campus Web Scraper](https://github.com/evan-kolberg/infinite-campus-web-scraper) 🏫
-- [Arduino Mouse for your PC](https://github.com/evan-kolberg/arduino-HID-mouse) 🐁
 - [KidOYO Speedcode Bot](https://github.com/evan-kolberg/KidOYO-Speed-Code-Bot) 🤖
 
 
